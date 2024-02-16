@@ -255,7 +255,7 @@ tonelib-bassdrive
 tonelib-gfx
 tonelib-jam
 tonelib-metal
-tonelib-noisereducer
+#tonelib-noisereducer
 tonelib-tubewarmth
 tonelib-zoom
 tribler
